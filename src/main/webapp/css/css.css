@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.join{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.hint{
+    width: 200px;
+    height: auto;
+    float: right;
+}
+.join input {
+    width: 400px;
+    height: auto;
+}
+.line {
+    display: inline-flex;
+}
+.line p {
+    font-size: 18px;
+    margin: 36px 0 0 10px;
+}
